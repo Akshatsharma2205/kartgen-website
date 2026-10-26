@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 570" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Connected business systems</title>
+<desc id="desc">Abstract interface panels and connected workflow nodes representing better business systems.</desc>
+<defs>
+  <linearGradient id="panel" x1="130" y1="80" x2="620" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#F0F5FC"/></linearGradient>
+  <linearGradient id="blue" x1="210" y1="170" x2="590" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#3B82F6"/><stop offset="1" stop-color="#1558C9"/></linearGradient>
+  <linearGradient id="soft" x1="110" y1="80" x2="660" y2="490" gradientUnits="userSpaceOnUse"><stop stop-color="#EAF2FF"/><stop offset="1" stop-color="#DCE9FF"/></linearGradient>
+  <filter id="shadow" x="35" y="28" width="690" height="520" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<circle cx="385" cy="285" r="235" fill="#EAF2FF"/>
+<circle cx="608" cy="112" r="34" fill="#D6E5FF"/>
+<circle cx="124" cy="427" r="21" fill="#C9DCFF"/>
+<path d="M92 286C147 286 153 217 206 217H273" stroke="#9CBDF6" stroke-width="3" stroke-dasharray="7 8"/>
+<path d="M482 350H558C596 350 598 307 637 307" stroke="#9CBDF6" stroke-width="3" stroke-dasharray="7 8"/>
+<rect x="117" y="76" width="523" height="420" rx="28" fill="#0F2A50" opacity=".10" filter="url(#shadow)"/>
+<rect x="108" y="64" width="523" height="420" rx="26" fill="url(#panel)" stroke="#D8E3F1" stroke-width="2"/>
+<path d="M108 90C108 75.64 119.64 64 134 64H605C619.36 64 631 75.64 631 90V111H108V90Z" fill="#F7F9FC"/>
+<circle cx="134" cy="88" r="5" fill="#B8C6D8"/><circle cx="153" cy="88" r="5" fill="#B8C6D8"/><circle cx="172" cy="88" r="5" fill="#B8C6D8"/>
+<rect x="137" y="132" width="180" height="145" rx="18" fill="#fff" stroke="#DDE6F2" stroke-width="2"/>
+<rect x="157" y="152" width="83" height="8" rx="4" fill="#B8C7DA"/>
+<rect x="157" y="170" width="126" height="6" rx="3" fill="#E1E8F1"/>
+<rect x="157" y="186" width="106" height="6" rx="3" fill="#E1E8F1"/>
+<rect x="157" y="213" width="138" height="43" rx="10" fill="#EAF2FF"/>
+<path d="M172 237L185 225L196 234L215 218L233 237" stroke="#2770E8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="350" y="132" width="246" height="145" rx="18" fill="#fff" stroke="#DDE6F2" stroke-width="2"/>
+<rect x="372" y="152" width="112" height="8" rx="4" fill="#A9BAD0"/>
+<rect x="372" y="170" width="175" height="6" rx="3" fill="#E1E8F1"/>
+<rect x="372" y="195" width="202" height="58" rx="12" fill="#F3F7FD"/>
+<circle cx="397" cy="224" r="12" fill="#D7E7FF"/><path d="M392 224L396 228L403 219" stroke="#1769E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="418" y="215" width="90" height="6" rx="3" fill="#9BAFC8"/><rect x="418" y="229" width="130" height="5" rx="2.5" fill="#D0DAE7"/>
+<rect x="137" y="304" width="459" height="143" rx="18" fill="#fff" stroke="#DDE6F2" stroke-width="2"/>
+<rect x="157" y="324" width="103" height="8" rx="4" fill="#A9BAD0"/>
+<rect x="157" y="342" width="150" height="6" rx="3" fill="#E1E8F1"/>
+<rect x="157" y="368" width="105" height="54" rx="12" fill="#EAF2FF"/>
+<rect x="273" y="368" width="105" height="54" rx="12" fill="#F0F5FC"/>
+<rect x="389" y="368" width="105" height="54" rx="12" fill="#EAF2FF"/>
+<rect x="505" y="368" width="70" height="54" rx="12" fill="#F0F5FC"/>
+<path d="M180 395H235M296 395H351M412 395H467M524 395H557" stroke="#2F74E8" stroke-width="3" stroke-linecap="round"/>
+<circle cx="207" cy="395" r="8" fill="#2F74E8"/><circle cx="324" cy="395" r="8" fill="#9DBCF4"/><circle cx="440" cy="395" r="8" fill="#2F74E8"/><circle cx="540" cy="395" r="8" fill="#9DBCF4"/>
+<circle cx="89" cy="182" r="26" fill="url(#blue)"/><path d="M79 182L86 189L100 174" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="657" cy="405" r="25" fill="#fff" stroke="#C9DAF3" stroke-width="2"/><path d="M646 405H668M657 394V416" stroke="#1769E8" stroke-width="3" stroke-linecap="round"/>
+<path d="M89 208V238C89 255 101 267 118 267H137" stroke="#8CB1F2" stroke-width="3" stroke-linecap="round"/>
+<path d="M596 405H632" stroke="#8CB1F2" stroke-width="3" stroke-linecap="round"/>
+</svg>

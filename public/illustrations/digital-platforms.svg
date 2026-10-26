@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 400" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Digital platforms across devices</title><desc id="desc">A desktop web interface and mobile screen represent a consistent digital experience.</desc>
+<rect x="20" y="20" width="520" height="360" rx="28" fill="#F8FAFD"/><circle cx="290" cy="205" r="137" fill="#EAF2FF"/>
+<rect x="72" y="85" width="320" height="222" rx="18" fill="#fff" stroke="#CBD9EC" stroke-width="2"/>
+<path d="M72 103C72 93.06 80.06 85 90 85H374C383.94 85 392 93.06 392 103V119H72V103Z" fill="#F3F7FC"/>
+<circle cx="91" cy="102" r="4" fill="#B4C3D7"/><circle cx="106" cy="102" r="4" fill="#B4C3D7"/><circle cx="121" cy="102" r="4" fill="#B4C3D7"/>
+<rect x="94" y="140" width="122" height="8" rx="4" fill="#193456"/><rect x="94" y="158" width="156" height="6" rx="3" fill="#D0DAE7"/><rect x="94" y="171" width="130" height="6" rx="3" fill="#D0DAE7"/>
+<rect x="94" y="193" width="82" height="27" rx="8" fill="#1769E8"/><rect x="94" y="240" width="78" height="48" rx="9" fill="#EAF2FF"/><rect x="181" y="240" width="78" height="48" rx="9" fill="#F0F5FC"/><rect x="268" y="240" width="78" height="48" rx="9" fill="#EAF2FF"/>
+<rect x="282" y="135" width="87" height="70" rx="12" fill="#F0F5FC"/><path d="M299 179L314 162L328 172L351 146" stroke="#1769E8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="333" y="170" width="126" height="178" rx="24" fill="#17375D" opacity=".10"/>
+<rect x="326" y="163" width="126" height="178" rx="24" fill="#fff" stroke="#C6D6EC" stroke-width="2"/>
+<rect x="365" y="173" width="48" height="5" rx="2.5" fill="#D2DCE9"/>
+<rect x="342" y="195" width="94" height="55" rx="10" fill="#EAF2FF"/><rect x="342" y="263" width="94" height="8" rx="4" fill="#A9BAD0"/><rect x="342" y="278" width="72" height="6" rx="3" fill="#D0DAE7"/><rect x="342" y="298" width="94" height="25" rx="8" fill="#1769E8"/>
+<circle cx="391" cy="221" r="13" fill="#C9DDFF"/><path d="M385 221L389 225L397 216" stroke="#1769E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M233 325H294" stroke="#9AB8E8" stroke-width="3" stroke-linecap="round"/><circle cx="233" cy="325" r="5" fill="#1769E8"/><circle cx="294" cy="325" r="5" fill="#1769E8"/>
+</svg>

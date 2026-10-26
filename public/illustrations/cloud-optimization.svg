@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 400" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Cloud and technology optimization</title><desc id="desc">A central cloud connects to balanced infrastructure cards and a simple resource chart.</desc>
+<rect x="20" y="20" width="520" height="360" rx="28" fill="#F8FAFD"/><circle cx="280" cy="190" r="139" fill="#EAF2FF"/>
+<path d="M280 165V111M280 225V280M223 194H155M337 194H405" stroke="#8EB2EE" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 7"/>
+<rect x="209" y="145" width="142" height="91" rx="23" fill="#1769E8"/>
+<path d="M246 196C235 196 230 188 230 180C230 171 237 164 246 164C251 151 264 145 276 149C287 152 293 161 294 171C307 171 318 181 318 192C318 202 310 210 299 210H247" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="103" y="69" width="104" height="69" rx="14" fill="white" stroke="#D4E1F1" stroke-width="2"/><rect x="123" y="87" width="64" height="6" rx="3" fill="#9FB1C9"/><rect x="123" y="102" width="44" height="6" rx="3" fill="#D0DAE7"/><rect x="123" y="116" width="56" height="6" rx="3" fill="#D0DAE7"/>
+<rect x="353" y="69" width="104" height="69" rx="14" fill="white" stroke="#D4E1F1" stroke-width="2"/><rect x="373" y="87" width="64" height="6" rx="3" fill="#9FB1C9"/><rect x="373" y="102" width="44" height="6" rx="3" fill="#D0DAE7"/><rect x="373" y="116" width="56" height="6" rx="3" fill="#D0DAE7"/>
+<rect x="103" y="258" width="104" height="69" rx="14" fill="white" stroke="#D4E1F1" stroke-width="2"/><path d="M125 306V287M139 306V278M153 306V294M167 306V270M181 306V283" stroke="#1769E8" stroke-width="6" stroke-linecap="round"/><path d="M120 310H190" stroke="#C9D7E8" stroke-width="2"/>
+<rect x="353" y="258" width="104" height="69" rx="14" fill="white" stroke="#D4E1F1" stroke-width="2"/><circle cx="405" cy="292" r="19" stroke="#D7E4F5" stroke-width="9"/><path d="M405 273A19 19 0 0 1 423 298" stroke="#1769E8" stroke-width="9" stroke-linecap="round"/><circle cx="405" cy="292" r="5" fill="#1769E8"/>
+<circle cx="280" cy="111" r="5" fill="#1769E8"/><circle cx="280" cy="280" r="5" fill="#1769E8"/><circle cx="155" cy="194" r="5" fill="#1769E8"/><circle cx="405" cy="194" r="5" fill="#1769E8"/>
+</svg>
